@@ -1,0 +1,49 @@
+# -------------------------
+# Phase 1 – Core Voice I/O
+# -------------------------
+vosk
+pyaudio
+sounddevice
+pyttsx3
+requests
+pycaw
+comtypes
+numpy
+pvporcupine
+python-dotenv
+
+ddgs==9.5.5 # duckduckgo_search
+# trafilatura==1.12.2
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+
+
+# -------------------------
+# Phase 2 – AI Integration
+# -------------------------
+openai
+spacy
+python-dateutil
+schedule
+
+# -------------------------
+# Phase 3 – Multimodal
+# -------------------------
+opencv-python
+pytesseract
+pillow
+speechrecognition
+transformers
+
+# -------------------------
+# Phase 4 – GUI & Deployment
+# -------------------------
+pyqt5
+flask
+fastapi
+python-dotenv
+pyinstaller
+watchdog
+
+

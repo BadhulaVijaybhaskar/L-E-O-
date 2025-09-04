@@ -1,0 +1,7 @@
+{
+  "wake_word": "Leo",
+  "wake_sensitivity": 0.7,
+  "OPENAI_API_KEY": "sk-your-backup-key",
+  "WEATHER_API_KEY": "your-weather-key"
+}
+
